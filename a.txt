@@ -1,8 +1,4 @@
-Docker环境下nginx安装与配置挂载:
-https://blog.csdn.net/liu59412/article/details/100730551
-Docker nginx安装与配置挂载:
-https://blog.csdn.net/qq_26641781/article/details/80883192
-为 docker 中的 nginx 配置 https:
-https://www.cnblogs.com/sparkdev/p/9163162.html
-
-百度搜索：docker nginx怎么配置
+dfdsf
+bc
+ab
+dfda
