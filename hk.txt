@@ -1,1 +1,14 @@
 ddd
+diff --git a/ak. b/ak.
+index e69de29..09cf36d 100644
+--- a/ak.
++++ b/ak.
+@@ -0,0 +1 @@
++dfdd
+diff --git a/bb.txt b/bb.txt
+deleted file mode 100644
+index fd7f318..0000000
+--- a/bb.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-ddddfdfa
