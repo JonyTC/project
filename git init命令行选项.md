@@ -1,6 +1,6 @@
 ### git init命令行选项
 
-
+选项
 
 ```
 git init [-q | --quiet] [--bare] [--template=<template_directory>]
